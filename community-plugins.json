@@ -46501,6 +46501,13 @@
     "repo": "arasan95/obsidian-main-pane"
   },
   {
+  "id": "makarios-studio",
+  "name": "Makários Studio",
+  "author": "David Bernardes",
+  "description": "Ambiente de estudo bíblico avançado para o Obsidian com sincronização de versículos, léxicos e comentários.",
+  "repo": "davidbernardes/makarios-studio"
+  },
+  {
     "id": "chat-lab",
     "name": "Chat Lab AI",
     "author": "Deepak Vaid",
