@@ -56,6 +56,13 @@
     "repo": "avr/obsidian-reading-time"
   },
   {
+  "id": "makarios-studio",
+  "name": "Makários Studio",
+  "author": "David Bernardes",
+  "description": "Ambiente de estudo bíblico avançado para o Obsidian com sincronização de versículos, léxicos e comentários.",
+  "repo": "davidbernardes/makarios-studio"
+  },
+  {
     "id": "mrj-jump-to-link",
     "name": "Jump to link",
     "author": "mrjackphil",
